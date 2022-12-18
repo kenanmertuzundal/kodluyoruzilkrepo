@@ -1,6 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![png](https://raw.githubusercontent.com/kenanmertuzundal/kodluyoruzilkrepo/main/kodluyourz.PNG)
+
 # Installation
 Öncelikle projeyi clonlayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
